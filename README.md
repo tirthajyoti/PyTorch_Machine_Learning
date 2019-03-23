@@ -1,7 +1,7 @@
 # Machine Learning with PyTorch Notebooks
 Machine learning, Deep Learning, Convolutional Neural Network (CNN) using PyTorch
 
-### Tensor basics - creation
-### Tensor basics - indexing
-### Tensor basics - operations
+### Tensor basics - creation and conversion
+### Tensor basics - indexing and slicing
+### Tensor basics - vector operations
 
