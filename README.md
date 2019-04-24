@@ -3,5 +3,5 @@ Machine learning, Deep Learning, Convolutional Neural Network (CNN) using PyTorc
 
 ### [Tensor basics - creation and conversion](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/Tensor%20basics%20-%20creation%20and%20conversion.ipynb)
 ### [Tensor basics - indexing and slicing](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/Tensor%20basics%20-%20indexing%20and%20slicing.ipynb)
-### [Tensor basics - vector operations](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/Tensor%20basics%20-%20vector%20operations.ipynb)
+### [Tensor basics - vector (1-D) operations](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/Tensor%20basics%20-%20vector%20operations.ipynb)
 
