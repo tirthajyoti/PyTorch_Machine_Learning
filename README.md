@@ -1,5 +1,11 @@
 # Machine Learning with PyTorch Notebooks
-Machine learning, Deep Learning, Convolutional Neural Network (CNN) using PyTorch
+Machine learning, Deep Learning, Convolutional Neural Network (CNN) using PyTorch.
+
+### Please feel free to [connect with me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and would like to connect.
+
+---
+
+# Notebooks
 
 ### [Tensor basics - creation and conversion](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/Tensor%20basics%20-%20creation%20and%20conversion.ipynb)
 ### [Tensor basics - indexing and slicing](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/Tensor%20basics%20-%20indexing%20and%20slicing.ipynb)
