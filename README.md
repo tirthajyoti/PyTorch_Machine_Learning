@@ -12,3 +12,6 @@ Machine learning, Deep Learning, Convolutional Neural Network (CNN) using PyTorc
 ### [Tensor basics - vector (1-D) operations](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/Tensor%20basics%20-%20vector%20(1-D)%20operations.ipynb)
 ### [Tensor basics - matrix (2-D) operations](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/Tensor%20basics%20-%20Matrix%20(2-D)%20operations.ipynb)
 ### [Derivatives with PyTorch](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/Derivatives%20with%20PyTorch.ipynb)
+### [Example of building layers of a simple neural net from scratch](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/Building%20a%20simple%20NN.ipynb)
+### [Building the class definition of a neural net and associated methods](https://github.com/tirthajyoti/PyTorch_Machine_Learning/blob/master/NN%20class%20building.ipynb)
+
